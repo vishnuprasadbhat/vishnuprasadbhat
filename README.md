@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VishnuPrasad Bhat
-- 👀 I’m interested in Frontend Web technology
+- 👀 I’m interested in Frontend Web technology and Web development
 - 🌱 I’m currently learning JavaScript and React framework
 - 💞️ I’m looking to collaborate on building new web site with continous learning 
 - 📫 How to reach me bhatvishnu.1@gmail.com
