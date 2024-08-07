@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <a href="=https://vishnuprasadbhat-portfolio.vercel.app/" target="_blank">
+  <a href="https://vishnuprasadbhat-portfolio.vercel.app/" target="_blank">
     <img width="40" height="40" src="https://img.icons8.com/pulsar-gradient/48/resume-website.png" alt="resume-website"/>
   </a>
   <a href="mailto:bhatvishnu.1@gmail.com" target="_blank">
