@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="=https://vishnuprasadbhat-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=QGRyhpyZX0zA&format=png&color=000000" width="80" height="40" alt="Vishnu's Postfolio"  />
+    <img src="https://github.com/vishnuprasadbhat/my-portfolio-v2/blob/main/public/images/logo.png" height="40" alt="Vishnu's Portfolio"  />
   </a>
   <a href="mailto:bhatvishnu.1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
