@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://vishnuprasadbhat-portfolio.vercel.app/" target="_blank">
-    <img width="80" height="40" src="https://img.icons8.com/pulsar-gradient/48/resume-website.png" alt="resume-website"/>
+    <img width="40" height="40" src="https://img.icons8.com/pulsar-gradient/48/resume-website.png" alt="resume-website"/>
   </a>
   <a href="mailto:bhatvishnu.1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
